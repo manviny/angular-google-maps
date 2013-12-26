@@ -1,5 +1,11 @@
 # angular-google-maps
 
+install with Bower
+http://www.directiv.es/angular-google-maps
+
+Video
+http://www.youtube.com/watch?v=RbxDLTfQc5g
+
 > AngularJS directives for Google Maps
 
 [![Build Status](https://travis-ci.org/nlaplante/angular-google-maps.png?branch=r1-dev)](https://travis-ci.org/nlaplante/angular-google-maps)
